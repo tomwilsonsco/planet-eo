@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Repo dir
+outputs/
+inputs/
+
 # Distribution / packaging
 .Python
 build/
