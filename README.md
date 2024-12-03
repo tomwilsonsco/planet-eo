@@ -21,4 +21,4 @@ jupyter lab --allow-root --ip=0.0.0.0
 http://127.0.0.1:8888/lab
 ```
 
-6. In Jupyter Lab open notebook:  `ps_search_preview_dld.ipynb`
+5. In Jupyter Lab open the notebook:  `ps_search_preview_dld.ipynb`
