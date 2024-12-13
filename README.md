@@ -16,9 +16,9 @@ docker run --rm -i -t -p 8888:8888 -w /app --mount type=bind,src="$(pwd)",target
 jupyter lab --allow-root --ip=0.0.0.0
 ```
 
-4. In browser go to:
+4. Copy link in format below and open in browser:
 ```bash
-http://127.0.0.1:8888/lab
+http://127.0.0.1:8888/lab?token=abc123
 ```
 
-5. In Jupyter Lab open the notebook:  `ps_search_preview_dld.ipynb`
+5. In Jupyter Lab open the notebooks:  `ps_search_preview_dld.ipynb` or `basemaps_month_download.ipynb`
