@@ -1,7 +1,7 @@
 # planet-eo
 Examples of Planet API. 
 
-The Jupyter notebooks import custom modules under `utils`, so need to run them from within the full repository structure.
+The Jupyter notebooks import custom modules under `utils`, so need to run them from within the full repository directory.
 
 ## Setup for Windows users - Conda `environment.yml`
 Windows users may find it easiest to use Conda.
