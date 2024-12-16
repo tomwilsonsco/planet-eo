@@ -1,6 +1,7 @@
 from PIL import Image, ImageOps
 import matplotlib.pyplot as plt
 from io import BytesIO
+from planet import Session
 
 
 # Can plot the thumbnails, but note these are not georeferenced
