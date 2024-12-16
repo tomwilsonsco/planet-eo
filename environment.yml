@@ -1,0 +1,19 @@
+name: planet_eo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - black
+  - flake8
+  - fiona
+  - folium
+  - geopandas
+  - ipykernel
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - planet
+  - rasterio
+  - requests
+  - shapely
