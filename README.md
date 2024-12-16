@@ -1,7 +1,7 @@
 # planet-eo
 Examples of Planet API. 
 
-**Note:** The Jupyter notebooks import custom modules from the `utils` directory. Keep these notebooks in the same relative location to `utils`.
+**Note:** These Jupyter notebook examples import custom modules from the `utils` directory. Keep these notebooks in the same relative location to `utils`.
 
 ## Setup for Windows users - Conda `environment.yml`
 Windows users may find it easiest to use Conda.
